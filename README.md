@@ -89,12 +89,3 @@ The notebook performs the following steps:
 * **README.md** – Project documentation including overview, setup instructions, usage details, and file descriptions
 
 ---
-
-If you want, I can also:
-
-* Make it **shorter for internship submission**
-* Format it for **GitHub Markdown**
-* Add a **Results / Output section**
-* Add **future improvements**
-
-Just tell me 😊
